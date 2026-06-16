@@ -1,0 +1,13 @@
+[
+    {
+        "complaint_id": "CMP001",
+        "student_id": "STD1001",
+        "complaint_type": "Maintenance",
+        "description": "Fan broken",
+        "complaint_status": "Open",
+        "priority": "High",
+        "date_submitted": "2026-06-09",
+        "date_resolved": "—",
+        "remarks": ""
+    }
+]

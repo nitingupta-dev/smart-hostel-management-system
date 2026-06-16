@@ -1,0 +1,14 @@
+[
+    {
+        "student_id": "STD1001",
+        "name": "Alice",
+        "email": "a@a.com",
+        "gender": "Female",
+        "mobile_number": "9876543210",
+        "address": "Delhi",
+        "course": "B.Tech",
+        "year": 2,
+        "room_number": "101",
+        "fee_status": "Pending"
+    }
+]

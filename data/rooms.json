@@ -1,0 +1,22 @@
+[
+    {
+        "room_id": "RM101",
+        "room_number": "101",
+        "room_type": "Double",
+        "capacity": 2,
+        "floor": 1,
+        "occupied_beds": 1,
+        "occupants": [
+            "STD1001"
+        ]
+    },
+    {
+        "room_id": "RM102",
+        "room_number": "102",
+        "room_type": "Triple",
+        "capacity": 3,
+        "floor": 2,
+        "occupied_beds": 0,
+        "occupants": []
+    }
+]

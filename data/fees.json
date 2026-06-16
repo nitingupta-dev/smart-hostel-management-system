@@ -1,0 +1,12 @@
+[
+    {
+        "fee_id": "FEE001",
+        "student_id": "STD1001",
+        "amount": 2500.0,
+        "due_date": "2025-06-30",
+        "payment_status": "Overdue",
+        "payment_date": "—",
+        "fine": 17300.0,
+        "month": "June 2026"
+    }
+]
